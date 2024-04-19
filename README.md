@@ -11,3 +11,5 @@ The continuous advancements in SPI cameras hold great promise for revolutionizin
 ![Emer_SPI](https://github.com/1Px-Vision/Emerging_Vision_Technology/assets/150855410/4efb1afd-272c-499c-b024-ccbad3bd8f90)
 
 
+C. O. Quero, D. Durini, J. de Jesús Rangel-Magdaleno, J. Martinez-Carranza and R. Ramos-Garcia, "Emerging Vision Technology: SPI Camera an Overview," in IEEE Instrumentation & Measurement Magazine, vol. 27, no. 2, pp. 38-47, April 2024, doi: 10.1109/MIM.2024.10472984. keywords: {Deep learning;Industries;Visualization;Surveillance;Robot vision systems;Transforms;Cameras},
+
