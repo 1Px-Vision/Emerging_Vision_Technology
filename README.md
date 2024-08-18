@@ -26,7 +26,7 @@ Carlos A. Osorio Quero, Daniel Durini, Jose Rangel-Magdaleno, Jose Martinez-Carr
 
 A. M. García, C. O. Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. D. Romero, "Edge computing SoC implementation of compressive sensing algorithm for single-pixel cameras," 2021 18th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2021, pp. 1-5, doi: 10.1109/CCE53527.2021.9633023.
 
-C. Osorio Quero, D. Durini Romero, J. Rangel-Magdaleno, J. Martinez Carranza, R. Ramos-Garcia, "2D/3D single-pixel NIR image reconstruction method for outdoor applications in presence of rain," Proc. SPIE 11914, SPIE Future Sensing Technologies 2021, 1191415 (14 November 2021); https://doi.org/10.1117/12.2601118
+C. Osorio Quero, D. Durini Romero, J. Rangel-Magdaleno, J. Martinez Carranza, R. Ramos-Garcia, "2D/3D single-pixel NIR image reconstruction method for outdoor applications in the presence of rain," Proc. SPIE 11914, SPIE Future Sensing Technologies 2021, 1191415 (14 November 2021); https://doi.org/10.1117/12.2601118
 
 A. Manjarres Garcia, C. Osorio Quero, J. Rangel-Magdaleno, J. Martinez-Carranza and D. Durini Romero, "Parallel-Pipeline Fast Walsh-Hadamard Transform Implementation Using HLS," 2021 International Conference on Field-Programmable Technology (ICFPT), Auckland, New Zealand, 2021, pp. 1-4, doi: 10.1109/ICFPT52863.2021.9609874.
 
@@ -42,4 +42,9 @@ C. Osorio Quero, D. Durini, R. Ramos-García, J. Rangel-Magdaleno, J. Martinez-C
 
 C. A. Osorio Quero, D. D. Romero, R. Ramos-Garcia, J. de Jesus Rangel-Magdaleno and J. Martinez-Carranza, "Towards a 3D Vision System based on Single-Pixel imaging and indirect Time-of-Flight for drone applications," 2020 17th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2020, pp. 1-6, doi: 10.1109/CCE50788.2020.9299125.
 
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
+
+## Contact
+For any questions or inquiries, please contact caoq@1px-vision.com
 
